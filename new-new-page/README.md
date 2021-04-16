@@ -6,5 +6,4 @@ New page
 
 NEw page edited by june without image
 
-![fruit](https://www.google.com/url?sa=i&url=https%3A%2F%2Fdeveloper.mozilla.org%2Fko%2Fdocs%2FWeb%2FHTML%2FElement%2Fimg&psig=AOvVaw3-aNUS3pgyma1sZOJSsVKU&ust=1618642855206000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCLjKmdWYgvACFQAAAAAdAAAAABAD)
-
+![gitbook](https://user-images.githubusercontent.com/82636808/114984956-333c3480-9ecd-11eb-8447-fa3bc3e57844.png)
